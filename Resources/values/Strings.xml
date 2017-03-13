@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">freshFridge</string>
+  <string name="typeFood">Wybierz typ jedzenia</string>
+  <string-array name="types_array">
+    <item>nabiał</item>
+    <item>mięso</item>
+    <item>ryby i owoce morza</item>
+    <item>mąki i makarony</item>
+    <item>kasze</item>
+    <item>słodycze</item>
+    <item>owoce i warzywa</item>
+    <item>inne</item>
+  </string-array>
+
+</resources>

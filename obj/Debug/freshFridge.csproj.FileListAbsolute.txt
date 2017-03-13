@@ -1,0 +1,113 @@
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\freshFridge.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\freshFridge.pdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\AndroidSQLite.AndroidSQLite.apk
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\AndroidSQLite.AndroidSQLite-Signed.apk
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLite-net.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLitePCL.batteries.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLitePCL.raw.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLitePCLPlugin_esqlite3.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLite-net.xml
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\SQLite-net.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\freshFridge.csprojResolveAssemblyReference.cache
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\freshFridge.dll
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\freshFridge.pdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\bin\AndroidSQLite.AndroidSQLite.apk
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\res\layout\list_view_datatemplate.xml
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\res\layout\main.xml
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\res\values\strings.xml
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\res\drawable\icon.png
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\R.cs.flag
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\uploadflags.txt
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\AndroidSQLite.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\Java.Interop.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\Mono.Android.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\mscorlib.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.Core.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.Xml.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\AndroidSQLite.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\bin\Debug\freshFridge.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\android\assets\freshFridge.dll.mdb
+C:\Users\y500\Desktop\na studia\3 rok\1 sem\freshFridge\obj\Debug\freshFridge.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.pdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.freshFridge.apk
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.freshFridge-Signed.apk
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLite-net.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLitePCL.batteries.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLitePCL.raw.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLitePCLPlugin_esqlite3.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLite-net.xml
+C:\Users\y500\Desktop\freshFridge\bin\Debug\SQLite-net.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\freshFridge.dll
+C:\Users\y500\Desktop\freshFridge\obj\Debug\freshFridge.pdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\bin\freshFridge.freshFridge.apk
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\layout\list_view_datatemplate.xml
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\layout\toolbar.xml
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\layout\main.xml
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\values\strings.xml
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\values\styles.xml
+C:\Users\y500\Desktop\freshFridge\obj\Debug\res\drawable\icon.png
+C:\Users\y500\Desktop\freshFridge\obj\Debug\R.cs.flag
+C:\Users\y500\Desktop\freshFridge\obj\Debug\uploadflags.txt
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Java.Interop.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\Mono.Android.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\mscorlib.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.Core.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.Xml.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\freshFridge.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\y500\Desktop\freshFridge\obj\Debug\freshFridge.csprojResolveAssemblyReference.cache
+C:\Users\y500\Desktop\freshFridge\obj\Debug\freshFridge.dll.mdb
+C:\Users\y500\Desktop\freshFridge\bin\Debug\freshFridge.dll.mdb
